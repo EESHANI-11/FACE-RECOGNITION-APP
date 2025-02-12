@@ -49,24 +49,12 @@ This is a face recognition application built using **Python, Face-Recognition AP
 
 ## **🚀 Installation & Setup**  
 
-### **1️⃣ Clone the Repository**  
 ```bash
 git clone https://github.com/YOUR_GITHUB_USERNAME/FACE-RECOGNITION-APP.git
 cd FACE-RECOGNITION-APP
-
-### ** 2️⃣ Install the Dependencies**  
-```bash
 pip install -r requirements.txt
-
-### **3️⃣ Run the Application**  
-```bash
 streamlit run Tracking.py
 
-## 🔍 Usage
-✅ Real-time Tracking using Webcam
-✅ Tracking Faces in Image Files
-✅ Updating Database (Add, Delete, Update Faces)
-✅ Viewing the Face Database
 
 
 
